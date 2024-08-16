@@ -1,12 +1,4 @@
-///
-/// Stellar by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
-/* Statistics */
-
-	.statistics {
+.statistics {
 		@include vendor('display', 'flex');
 		width: 100%;
 		margin: 0 0 (_size(element-margin) * 1.5) 0;

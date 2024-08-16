@@ -1,10 +1,5 @@
 @import 'fontawesome-all.min.css';
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -105,7 +100,6 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   transition: none !important;
 }
 
-/* Type */
 body {
   background-color: #935d8c;
   color: rgba(255, 255, 255, 0.65);
@@ -299,7 +293,6 @@ hr {
   border-bottom-color: rgba(255, 255, 255, 0.35);
 }
 
-/* Row */
 .row {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1535,7 +1528,6 @@ hr {
   }
 }
 
-/* Box */
 .box {
   border-radius: 8px;
   border: solid;
@@ -1557,7 +1549,6 @@ hr {
   border-color: rgba(255, 255, 255, 0.35);
 }
 
-/* Button */
 input[type=submit],
 input[type=reset],
 input[type=button],
@@ -1702,7 +1693,6 @@ button.primary.icon:before,
   color: #ffffff !important;
 }
 
-/* Form */
 form {
   margin: 0 0 2em 0;
 }
@@ -1920,7 +1910,6 @@ input[type=radio]:focus + label:before {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
-/* Icon */
 .icon {
   text-decoration: none;
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -2035,7 +2024,6 @@ input[type=radio]:focus + label:before {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-/* Image */
 .image {
   border-radius: 8px;
   border: 0;
@@ -2079,7 +2067,6 @@ input[type=radio]:focus + label:before {
   width: 100%;
 }
 
-/* List */
 ol {
   list-style: decimal;
   margin: 0 0 2em 0;
@@ -2145,7 +2132,6 @@ dl dt {
   color: #ffffff;
 }
 
-/* Actions */
 ul.actions {
   display: -moz-flex;
   display: -ms-flex;
@@ -2252,7 +2238,6 @@ ul.actions.fit.stacked {
   }
 }
 
-/* Icons */
 ul.icons {
   cursor: default;
   list-style: none;
@@ -2266,7 +2251,6 @@ ul.icons li:last-child {
   padding-right: 0 !important;
 }
 
-/* Section/Article */
 section.special, article.special {
   text-align: center;
 }
@@ -2327,7 +2311,6 @@ header.major h2:after {
   background-color: rgba(255, 255, 255, 0.35);
 }
 
-/* Table */
 .table-wrapper {
   -webkit-overflow-scrolling: touch;
   overflow-x: auto;
@@ -2397,7 +2380,6 @@ table.alt tbody tr td {
   border-color: rgba(255, 255, 255, 0.35);
 }
 
-/* Features */
 .features {
   display: -moz-flex;
   display: -ms-flex;
@@ -2451,7 +2433,6 @@ table.alt tbody tr td {
   }
 }
 
-/* Statistics */
 .statistics {
   display: -moz-flex;
   display: -ms-flex;
@@ -2539,7 +2520,6 @@ table.alt tbody tr td {
   }
 }
 
-/* Spotlight */
 .spotlight {
   display: -moz-flex;
   display: -ms-flex;
@@ -2627,7 +2607,6 @@ table.alt tbody tr td {
   border-color: rgba(255, 255, 255, 0.35);
 }
 
-/* Header */
 #header {
   padding: 5em 5em 1em 5em;
   text-align: center;
@@ -2725,7 +2704,6 @@ body.is-preload #header.alt .logo {
   transform: scale(0.8) rotate(-30deg);
 }
 
-/* Nav */
 #nav {
   -webkit-transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
   transition: background-color 0.2s ease, border-top-left-radius 0.2s ease, border-top-right-radius 0.2s ease, padding 0.2s ease;
@@ -2823,7 +2801,6 @@ body.is-preload #header.alt .logo {
   }
 }
 
-/* Main */
 #main {
   background-color: #ffffff;
   color: #636363;
@@ -3101,7 +3078,6 @@ body.is-preload #header.alt .logo {
   }
 }
 
-/* Footer */
 #footer {
   display: -moz-flex;
   display: -ms-flex;
@@ -3161,7 +3137,6 @@ body.is-preload #header.alt .logo {
   }
 }
 
-/* Wrapper */
 #wrapper {
   width: 64em;
   max-width: calc(100% - 4em);
